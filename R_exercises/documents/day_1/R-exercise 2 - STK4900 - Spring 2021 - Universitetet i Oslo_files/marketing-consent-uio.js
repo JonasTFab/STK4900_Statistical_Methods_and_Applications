@@ -1,1 +1,0 @@
-var uioClientInfo = {}; uioClientInfo.externalIP = true;
